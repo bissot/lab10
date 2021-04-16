@@ -14,4 +14,4 @@
 ![part1](/cp4.png)
 
 # Code for Checkpoint 4
-(/checkpoint4.py)
+https://github.com/bissot/lab10/blob/master/checkpoint4.py
